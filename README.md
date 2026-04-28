@@ -7,6 +7,11 @@ Neama is a comprehensive platform for web and mobile that helps households manag
 
 
 
-
 ### Google Drive Link:
 https://drive.google.com/drive/folders/1NdA-c9rEYwwKDV1aIYWBoFUoC71Xszgs
+
+### Figjam Link:
+https://www.figma.com/board/1MmYCwbgoBYQf2Mz8byjPU/Neama-Project-%F0%9F%A5%A3%F0%9F%A5%98%F0%9F%94%84%F0%9F%93%8C?node-id=0-1&t=dpSSM7kkLmYWhrfD-1
+
+### Figma Link:
+https://www.figma.com/design/az6bOp3wVhSCfSMY9ohuwY/Neama-Project-%F0%9F%A5%A3%F0%9F%A5%98%F0%9F%94%84%F0%9F%93%8C?node-id=2-3&t=VpqLBBpwXa2K6xVf-1
